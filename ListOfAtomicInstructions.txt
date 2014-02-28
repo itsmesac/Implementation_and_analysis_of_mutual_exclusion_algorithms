@@ -1,0 +1,20 @@
+BTS - Bit Test and Set
+BTR - Bit Test with Reset
+BTC - Bit Test and Complement
+XADD - Exchange and Add
+CMPXCHG - Compare and Exchange
+CMPXCHG8B - Compare and Exchange(8 bytes)
+INC - Increment Operation
+DEC - Decrement Operation
+NOT - Not Operation 
+NEG - Negation Operation
+ADD - Add Operation
+SUB - Subtract Operation
+ADC - Add with Carry
+SBB - Subtraction with Borrow
+AND - Logical And
+OR - Logical Or
+XOR - Logical Xor
+XCHNG - Exchange operation
+
+In addition to the above instuctions, Load and Store operations are also atomic.
